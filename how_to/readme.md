@@ -5,7 +5,7 @@
  - do not end the commit summari with hash tag
 
 ## How to create news with an image:
- - put the image into the correct folder /<year>/<month>
+ - put the image into the correct folder /\<year\>/\<month\>
  - name the image as \<day\>_\<description\>.jpg
  - only jpg image are supported
  - push is done with commit: just put into the summary ONLY the final url of the image
