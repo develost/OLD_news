@@ -14,7 +14,7 @@
  
 ## How to create news without image
  - put a text file into the correct folder, describing if you want what is appened
- - the correct folder is /<year>/<month> 
- - name of the textfile il <day>_<description>.md
+ - the correct folder is /\<year\>/\<month\> 
+ - name of the textfile il \<day\>_\<description\>.md
  - you can use markdown formatting if you want
  - push is done with commit: just put an hash tag as as first character of commit summary
