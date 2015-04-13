@@ -1,0 +1,7 @@
+How to create text only news
+- body(test a message with #test hash)
+
+How to create image news
++ body(a message with #test hash) url(https://raw.githubusercontent.com/develost/news/master/2015/04/13_first prerelease_version_websu.jpg)
+
+
