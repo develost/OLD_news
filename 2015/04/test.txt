@@ -1,6 +1,0 @@
-+
-title(New test)
-summary(yeah this is the twitter message)
-body(something very very important happened )
-picture(2015/04/17_2.jpg)
-

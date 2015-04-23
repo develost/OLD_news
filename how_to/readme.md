@@ -8,15 +8,16 @@ This is the repository of everithing appened to us.
  - put the image into the correct folder /\<year\>/\<month\>
  - name the image as \<day\>_\<description\>.jpg
  - only jpg image are supported for now
- - push is done with commit, start with +
- - body with text message
- - url with image url
- 
-```
- + body(a message with #test hash) url(https://raw.githubusercontent.com/develost/news/master/2015/04/13_first prerelease_version_websu.jpg)
+ - push is done with commit, put + into commit summary
+``` 
+ + 
+ pic(2015/04/23.jpg)
+ fbmsg(test this is the fbmsg)
+ twmsg(#test this is the twmsg)
+ fblnk(http://www.develost.com)
 ``` 
 
-## How to create news without image
+## How to create news without image (currently disabled)
  - put an MD file into the correct folder, describing if you want what is appened
  - the correct folder is /\<year\>/\<month\> 
  - name of the textfile il \<day\>_\<description\>.md
