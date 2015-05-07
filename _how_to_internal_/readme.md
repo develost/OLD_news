@@ -10,7 +10,7 @@ This is the repository of everithing appened to us.
  - only jpg image are supported for now
  - push is done with commit, put + into commit summary
 ``` 
- + 
++ 
  pic(2015/04/23.jpg)
  fbmsg(test this is the fbmsg)
  twmsg(#test this is the twmsg http://wwww.develost.com/)
