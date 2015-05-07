@@ -13,7 +13,7 @@ This is the repository of everithing appened to us.
  + 
  pic(2015/04/23.jpg)
  fbmsg(test this is the fbmsg)
- twmsg(#test this is the twmsg)
+ twmsg(#test this is the twmsg http://wwww.develost.com/)
  fblnk(http://www.develost.com)
 ``` 
 
