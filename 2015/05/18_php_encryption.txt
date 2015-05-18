@@ -1,0 +1,5 @@
+-
+
+twmsg(#php script to encrypt/decrypt files in #blowfish crc hmac https://github.com/develost/websu/blob/master/utils/encrypt.php)
+fbmsg(php script to encrypt/decrypt files in blowfish crc hmac https://github.com/develost/websu/blob/master/utils/encrypt.php)
+
