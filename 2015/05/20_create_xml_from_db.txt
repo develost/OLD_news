@@ -1,0 +1,3 @@
+-
+twmsg(Generate an #XML schema from an existing #Database ? Our choice is #SchemaSpy soon an utility for #surfway http://www.develost.com/surfway)
+fbmsg(Generate an XML schema from an existing Database? Our choice is SchemaSpy. Soon an utility for surfway http://www.develost.com/surfway)
