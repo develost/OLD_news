@@ -26,7 +26,7 @@ This is the repository of everithing appened to us.
  - body with text message, include link to the md file if desidered
 
 ```
- - body(test a message with #test hash)
- - body(this is a #test url https://github.com/develost/news/blob/master/how_to/readme.md) 
+ - twmsg(test a message with #test hash)
+ - fbmsg(this is a #test url https://github.com/develost/news/blob/master/how_to/readme.md) 
 ```
 
