@@ -1,0 +1,3 @@
+-
+ twmsg(Need to create a mobile ready web #application with #php and #mysql ? #surfway http://www.develost.com/surfway)
+ fbmsg(Need to create a mobile ready web application with php and mysql ? surfway http://www.develost.com/surfway) 
