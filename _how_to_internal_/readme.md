@@ -17,7 +17,7 @@ This is the repository of everithing appened to us.
  fblnk(http://www.develost.com)
 ``` 
 
-## How to create news without image (TODO)
+## How to create news without image
  - put an MD file into the correct folder, describing if you want what is appened
  - the correct folder is /\<year\>/\<month\> 
  - name of the textfile il \<day\>_\<description\>.md
