@@ -1,6 +1,6 @@
 # This is the repository of all news 
 
-## Follow us
+## Follow me
  - on our [website](http://www.develost.com)
  - on [Twitter @develost_com](https://twitter.com/develost_com):
      - [#dlMetro](https://twitter.com/hashtag/dlMetro?src=hash)
