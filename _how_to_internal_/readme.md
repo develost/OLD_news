@@ -30,7 +30,5 @@ This is the repository of everithing appened to us.
  - fbmsg(this is a #test url https://github.com/develost/news/blob/master/how_to/readme.md) 
 ```
 
-## std msg
-Thanks for following develost_com. Apply to our visibility program to acquire free access to our services http://www.develost.com/visibility-program
 
 
