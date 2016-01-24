@@ -10,6 +10,6 @@
  - on [Facebook](https://www.facebook.com/pages/develostcom/1400737306913750)
  - on [gitHub](https://github.com/develost/)
  - on [Stackoverflow](http://stackoverflow.com/users/4759300/develost)
- - request for info: [info@develost.com](mailto:info@develost.com)
+ - request for info: [massimiliano.bernabe@gmail.com](mailto:[massimiliano.bernabe@gmail.com)
  
  
